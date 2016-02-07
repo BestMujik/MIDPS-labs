@@ -1,4 +1,4 @@
-## Medii interactive de dezvoltare a produselor soft LAB #1
+## Medii Interactive de Dezvoltare a Produselor Soft LAB #1
 
 ## Version Control Systems si modul de setare a unui server
 [EN] Setting server environment. Version Control Systems

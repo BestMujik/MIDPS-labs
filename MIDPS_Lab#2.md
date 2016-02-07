@@ -54,7 +54,7 @@ PowerShell (windows console):
   - [Popwershell tips](http://powershell.com/cs/blogs/tips/)
   
 Cum sa intelezi o masina virtuala  
-  -[Installing Ubuntu inside Windows using VirtualBox](http://www.psychocats.net/ubuntu/virtualbox)
+  - [Installing Ubuntu inside Windows using VirtualBox](http://www.psychocats.net/ubuntu/virtualbox)
 
 SSH into your Virtualbox VM from the same computer:
   - [Video - SSH into your Virtualbox VM](http://www.youtube.com/watch?v=5BsShkcweIs)
@@ -78,4 +78,8 @@ Advanced Git:
 Mercurial:
   - [Introduction to Mercurial](http://hginit.com/)
   - [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
+
+SVN
+  - [Introducing to SVN](http://svnbook.red-bean.com/)
+  - [Example of SVN](https://tortoisesvn.net/)
 

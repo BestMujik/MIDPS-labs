@@ -20,7 +20,7 @@
   Se considera ca ai trecut cu succes laboratorul daca ai urmat toti pasii din:
   - Submission Process [](url)
   
- ### Technical Prerequisites:
+### Technical Prerequisites:
   - Conexiunea la un remote server folosind SSH (Drept server remote, poate fi folosit atit un server real, cit si o masina virtuala _virtual machine_)
   - VCS pe remote server
   - CLI text editor (vi, vim, emacs or nano) cu pluginurile necesare (if necessary)

@@ -1,2 +1,2 @@
 # MIDPS-labs
-Conditiile pentru lucrarrile de laborator la MIDPS, prof. R. Melnic
+Conditiile pentru lucrarile de laborator la MIDPS, prof. R. Melnic

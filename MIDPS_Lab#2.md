@@ -42,7 +42,7 @@
     - merge 2 branches
     - conflict solving between 2 branches
   - _Bonus Point_:
-    - Scrie un script care va compila HelloWolrdPrograms projects. 
+    - Scrie un script care va compila HelloWolrdPrograms projects. [vezi lista](https://github.com/TUM-FAF/IDE/tree/master/HelloWorldPrograms)
       
 ### Referinte:
 

@@ -1,37 +1,38 @@
-*.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
-# Latex
+# Core latex/pdflatex auxiliary files:
 *.aux
-*.glo
-*.idx
-*.log
-*.toc
-*.ist
-*.acn
-*.acr
-*.alg
-*.bbl
-*.blg
-*.dvi
-*.glg
-*.gls
-*.ilg
-*.ind
 *.lof
+*.log
 *.lot
-*.maf
-*.mtc
-*.mtc1
+*.fls
 *.out
-*.synctex.gz
+*.toc
+*.fmt
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs) + Compiled Dynamic libraries
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CodeBlocks artefacts
+*.depend
+*.layout

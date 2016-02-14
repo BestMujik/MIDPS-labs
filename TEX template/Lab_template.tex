@@ -1,0 +1,47 @@
+\documentclass[12pt,a4paper,titlepage]{article}
+\usepackage{lab_style}
+\usepackage{pdfpages}
+\usepackage{eso-pic}
+
+  
+\begin{document}
+
+% TITLE
+\input{Title.tex}
+\cleardoublepage
+
+\newpage
+
+\pagenumbering{arabic}
+\setcounter{page}{10}
+\setcounter{secnumdepth}{4}
+
+\addtocontents{toc}{\protect\thispagestyle{empty}} % no page number on the table of contents page
+\cleardoublepage
+
+
+%INTRODUCERE
+%\setcounter{page}{17} 
+\phantomsection
+\addcontentsline{toc}{section}{Introduction}
+\input{Introduction.tex}
+\cleardoublepage
+
+% CAPITOLUL 1
+\input{Chapter_1.tex}
+\cleardoublepage
+%
+
+%CONCLUZII
+\phantomsection
+\addcontentsline{toc}{section}{Conclusions}
+\input{Conclusions.tex}
+\cleardoublepage
+
+\cleardoublepage
+\addcontentsline{toc}{section}{References}
+\input{biblio.tex}
+\cleardoublepage
+   
+ 
+\end{document}

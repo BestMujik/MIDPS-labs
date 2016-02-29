@@ -2,15 +2,23 @@
 
 **Rapoartele pot fi expediate in limba romana/rusa/engleza, dar doar in .PDF format**
 
-Initial creeaza un cont pe GitHub care va contine repozitoriul laboratorului efectuat. [How to do it?](https://github.com/TUM-FAF/WP/wiki/GitHub-Workflow)
+Initial creeaza un cont pe GitHub care va contine repozitoriul laboratorului efectuat. 
+[How to do it?](http://git-scm.com/documentation)
+
+sau
+
+Instalarea si configurarea Git:
+    * [Download](http://git-scm.com/) and install Git client
+    * [Generate public](https://help.github.com/articles/generating-ssh-keys) & private key pair
+    * [Adauga public key la account-ul tau](http://www.wikihow.com/Add-SSH-Public-Keys-on-GitHub)
 
 Atunci cind veti avea repozitoriul, urmeaza urmatorii pasi:
 
 1. Cloneaza repositoriul pe masina ta locala
-* Adauga .gitignore and README files [details here](https://github.com/TUM-FAF/WP/blob/master/lab%231/lab%231.md#using-vcs-git-or-svn-and-github)
+* Adauga .gitignore and README files [details here](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files)
 * Creeaza mapa MIDPS
 * Creeaza mapa pentru primul laborator (Lab#1)
-* Lucreaza la laborator, faci commit cind e necesar
+* Lucreaza la laborator, faci commit cind este necesar [How to do it?](https://help.github.com/articles/adding-a-file-to-a-repository-from-the-command-line/)
 * Cind ai finisat de implimentat task-urile, creeaza un readme file in care vei explica ceea ce ai facut, problemele intilnite in timpul dezvoltarii,
 Alte note aditionale care le consideri necesare.
 * Push schimbarile pe GitHub
@@ -26,6 +34,8 @@ Alte note aditionale care le consideri necesare.
   * Expediaza-mi raportul impreuna cu link-ul la repozitorul tau pe email=ul cojanu.irina.utm@gmail.com 
 
 _Note:_
+  * _Prezentarea laboratorului in Latex nu este obligatorie(dar se va aprecia cu +1), se poate de prezentat si in varianta simpla PDF_
+  
   * _Cu cit mai multe detalii vei atasa la laboratorul tau, cu atit mai putine intrebari iti voi adresa in timpul prezentarii._
 
   * _Daca careva din notiuni/cuvinte nu iti sunt cunoascute - google it._

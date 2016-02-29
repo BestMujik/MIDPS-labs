@@ -6,7 +6,7 @@ Initial creeaza un cont pe GitHub care va contine repozitoriul laboratorului efe
 
 Atunci cind veti avea repozitoriul, urmeaza urmatorii pasi:
 
-1. Clone repository pe masina ta locala
+1. Cloneaza repositoriul pe masina ta locala
 * Adauga .gitignore and README files [details here](https://github.com/TUM-FAF/WP/blob/master/lab%231/lab%231.md#using-vcs-git-or-svn-and-github)
 * Creeaza mapa MIDPS
 * Creeaza mapa pentru primul laborator (Lab#1)

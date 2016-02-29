@@ -41,7 +41,7 @@ _Nota: Foloseste un IDE diferit pentru fiecare lucrare de laborator_
     - Realizeaza un simplu GUI calculator care suporta urmatoare functii: +, -, /, *, putere, radical, InversareSemn(+/-), operatii cu numere zecimale.
     - Divizare proiectului in doua module -  Interfata grafica(Modul GUI) si Modulul de baza(Core Module).
 
-  ### References:
+### References:
   - [Multitier architecture](http://en.wikipedia.org/wiki/Multitier_architecture)
   - [Different User Interfaces - Same Logic](http://qt-project.org/quarterly/view/different_user_interfaces_same_logic)
 

@@ -18,7 +18,7 @@
 
 ### Conditii Generale:
   Se considera ca ai trecut cu succes laboratorul daca ai urmat toti pasii din:
-  - Submission Process [](url)
+  - [Submission Process](https://github.com/BestMujik/MIDPS-labs/blob/master/Submission%20Process.md)
   
 ### Technical Prerequisites:
   - Conexiunea la un remote server folosind SSH (Drept server remote, poate fi folosit atit un server real, cit si o masina virtuala _virtual machine_)

@@ -21,7 +21,7 @@ _Nota: Foloseste un IDE diferit pentru fiecare lucrare de laborator_
 
 ### Cerinte Generale:
   Se considera ca ai trecut cu succes laboratorul daca ai urmat toti pasii din:
-  - Submission Process
+  - [Submission Process](https://github.com/BestMujik/MIDPS-labs/blob/master/Submission%20Process.md)
 
 ### Technical Prerequisites:
   - Aplicatia trebuie sa fie divizata in doua module:

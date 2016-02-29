@@ -1,6 +1,6 @@
 # Submission Process
 
-**Toate rapoartele expediate trebuie sa fie in romana/engleza si in .PDF format**
+**Toate rapoartele expediate trebuie sa fie in romana/rusa/engleza si in .PDF format**
 
 Initial creeaza un cont pe GitHub care va contine repozitoriul laboratorului efectuat. [How to do it?](https://github.com/TUM-FAF/WP/wiki/GitHub-Workflow)
 

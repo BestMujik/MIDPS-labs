@@ -2,15 +2,6 @@
 
 ##  Web development
 
-## Web development IDEs/text editors (one of):
-  - **RubyMine**
-  - **PyCharm**
-  - **phpStorm/webStorm**
-  - Sublime Text 3
-  - Brackets
-  - Komodo
-  - Coda
-
 ### Prerequisites:
   - IDEs/text editors (alege unul): Sublime Text 3, RubyMine, PyCharm, Komodo, Coda, phpStorm, webStorm, Brackets
   - Limbaje de prohramare: Ruby, Python, JS, PHP
@@ -31,7 +22,7 @@
   - Foloseste MVC (Model–View–Controller) pattern
 
 ### Laboratory Requirements:
-  _Basic Level_ (nota 5 || 6) :
+  - _Basic Level_ (nota 5 || 6) :
     - Realizeaza un mini site cu 3 pagini statice
   - _Normal Level_ (nota 7 || 8):
     - Site-ul trebuie sa pastreze toata informatia intr-o baza de date

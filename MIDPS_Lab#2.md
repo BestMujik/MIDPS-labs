@@ -40,7 +40,7 @@
     - seteaza un branch to track a remote origin pe care vei putea sa faci push (ex. Github, Bitbucket or custom server)
     - reseteaza un branch la commit-ul anterior
     - merge 2 branches
-    - conflict solving between 2 branches
+    - rezolvarea conflictelor a 2 branches
   - _Bonus Point_:
     - Scrie un script care va compila HelloWolrdPrograms projects. [vezi lista](https://github.com/TUM-FAF/IDE/tree/master/HelloWorldPrograms)
       

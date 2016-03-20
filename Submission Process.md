@@ -8,9 +8,9 @@ Initial creeaza un cont pe GitHub care va contine repozitoriul laboratorului efe
 sau
 
 Instalarea si configurarea Git:
-    * [Download](http://git-scm.com/) and install Git client
-    * [Generate public](https://help.github.com/articles/generating-ssh-keys) & private key pair
-    * [Adauga public key la account-ul tau](http://www.wikihow.com/Add-SSH-Public-Keys-on-GitHub)
+   * [Download](http://git-scm.com/) and install Git client
+   * [Generate public](https://help.github.com/articles/generating-ssh-keys) & private key pair
+   * [Adauga public key la account-ul tau](http://www.wikihow.com/Add-SSH-Public-Keys-on-GitHub)
 
 Atunci cind veti avea repozitoriul, urmeaza urmatorii pasi:
 
@@ -31,7 +31,7 @@ Alte note aditionale care le consideri necesare.
   * Concluzii (0.3 - 1 pagina)
   * Bibliografie 
   * Titlul fisierului .pdf 
-  * Expediaza-mi raportul impreuna cu link-ul la repozitorul tau pe email=ul cojanu.irina.utm@gmail.com 
+  * Expediaza-mi raportul impreuna cu link-ul la repozitorul tau pe email-ul cojanu.irina.utm@gmail.com 
   * Subiectul email-ului ex: [MIDPS][TI-144][Lab#2][NumePrenume]
 
 _Note:_

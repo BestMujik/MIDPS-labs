@@ -1,4 +1,4 @@
-## Medii Interactive de Dezvoltare a Produselor Soft LAB #1
+## Medii Interactive de Dezvoltare a Produselor Soft LAB #2
 
 ## Version Control Systems si modul de setare a unui server
 [EN] Setting server environment. Version Control Systems
@@ -36,11 +36,11 @@
     - configureaza-ti VCS
     - crearea branch-urilor (creeaza cel putin 2 branches)
     - commit pe ambele branch-uri (cel putin 1 commit per branch)
-  - _Advanced Level_ (grade 9 || 10):
+  - _Advanced Level_ (nota 9 || 10):
     - seteaza un branch to track a remote origin pe care vei putea sa faci push (ex. Github, Bitbucket or custom server)
     - reseteaza un branch la commit-ul anterior
     - merge 2 branches
-    - conflict solving between 2 branches
+    - rezolvarea conflictelor a 2 branches
   - _Bonus Point_:
     - Scrie un script care va compila HelloWolrdPrograms projects. [vezi lista](https://github.com/TUM-FAF/IDE/tree/master/HelloWorldPrograms)
       

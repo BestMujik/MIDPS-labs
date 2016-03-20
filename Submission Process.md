@@ -31,7 +31,7 @@ Alte note aditionale care le consideri necesare.
   * Concluzii (0.3 - 1 pagina)
   * Bibliografie 
   * Titlul fisierului .pdf 
-  * Expediaza-mi raportul impreuna cu link-ul la repozitorul tau pe email=ul cojanu.irina.utm@gmail.com 
+  * Expediaza-mi raportul impreuna cu link-ul la repozitorul tau pe email-ul cojanu.irina.utm@gmail.com 
   * Subiectul email-ului ex: [MIDPS][TI-144][Lab#2][NumePrenume]
 
 _Note:_

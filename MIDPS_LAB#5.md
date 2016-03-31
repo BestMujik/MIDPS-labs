@@ -39,6 +39,7 @@ _Foloseste un nou IDE pentru fiecare lucrare de laborator_
     - Implimenteaza un simplu ceas sau stopwatch
   - _Advanced Level_ (nota 9 || 10):
     - Realizeaza o aplicatie care va implimenta tehnica _Pomodoro_
+    sau 
     - O alta aplicatie sofisticata la alegere 
       * Game
       

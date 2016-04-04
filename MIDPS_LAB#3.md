@@ -1,4 +1,4 @@
-# MIDPS lab #2
+# MIDPS lab #3
 
 _Nota: Foloseste un IDE diferit pentru fiecare lucrare de laborator_
 

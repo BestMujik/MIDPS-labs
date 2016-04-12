@@ -13,7 +13,7 @@
 ### Obiective:
   - Intelegerea si folosirea CLI (basic level)
   - Administrarea remote a masinilor linux machine folosind SSH (remote code editing)
-  - Version Control Systems (git || mercurial || svn)
+  - Version Control Systems (git || bitbucket || mercurial || svn)
   - Compileaza codul C/C++/Java/Python prin intermediul CLI, folosind compilatoarele gcc/g++/javac/python 
 
 ### Conditii Generale:
@@ -26,7 +26,8 @@
   - CLI text editor (vi, vim, emacs or nano) cu pluginurile necesare (if necessary)
   - Compilers/interpreters necesare pe remote server (gcc, g++, openJDK, python, ruby)
 
-### Laboratory Requirements:
+### Laboratory Requirements: Trebuie folosit drept VSC [github](https://github.com/) sau [bitbucket](https://bitbucket.org/)
+
   -  _Basic Level_ (nota 5 || 6) :
     - conecteaza-te la server folosind SSH
     - compileaza cel putin 2 sample programs din setul HelloWolrdPrograms folosind CLI

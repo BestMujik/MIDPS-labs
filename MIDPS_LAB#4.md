@@ -18,9 +18,6 @@
   2. Trebuie sa elaborezi un program prototip care il vei arata in timpul laboratorului
   3. Ai respectat DL (data limita)
 
-### Technical Prerequisites:
-  - Foloseste MVC (Model–View–Controller) pattern
-
 ### Laboratory Requirements:
   - _Basic Level_ (nota 5 || 6) :
     - Realizeaza un mini site cu 3 pagini statice

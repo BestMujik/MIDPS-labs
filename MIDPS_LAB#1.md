@@ -1,6 +1,6 @@
 ## Medii Interactive de Dezvoltare a Produselor Soft LAB #1
 
-## Version Control Systems si modul de setare a unui server
+## Version Control Systems
 [EN] Version Control Systems - Versiuni de control
 
 ### Prerequisites:

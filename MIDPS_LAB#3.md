@@ -1,4 +1,4 @@
-## Medii Interactive de Dezvoltare a Produselor Soft LAB #4
+## Medii Interactive de Dezvoltare a Produselor Soft LAB #3
 
 ##  Web development
 
@@ -14,14 +14,17 @@
   
 ### Conditii Generale:
   Se considera ca ai trecut cu succes laboratorul daca ai urmat toti pasii din:
-  1. [Submission Process](https://github.com/BestMujik/MIDPS-labs/blob/master/Submission%20Process.md)
+  1. [Submission Process](https://github.com/BestMujik/MIDPS-labs/blob/midps_fr/Submission%20Process.md)
   2. Trebuie sa elaborezi un program prototip care il vei arata in timpul laboratorului
   3. Ai respectat DL (data limita)
 
 ### Laboratory Requirements:
-  - _Basic Level_ (nota 5 || 6) :
+  - _Basic Level_ (nota 5) :
     - Realizeaza un mini site cu 3 pagini statice
-  - _Normal Level_ (nota 7 || 8):
+  - _Intermidiate Level_ (6 || 7) :
+    - Realizeaza un mini site cu 3 pagini statice (folosirea maximala a tagurilor)
+    - Pentru formatarea paginilor se va folosi CSS
+  - _Normal Level_ (8):
     - Site-ul trebuie sa pastreze toata informatia intr-o baza de date
   - _Advanced Level_ (nota 9 || 10):
     - Site-ul trebuie sa contina AJAX Requests.
@@ -29,15 +32,8 @@
 
 
 ### Referinte:
-  - [Sublime Text 2 workflow](https://tutsplus.com/course/improve-workflow-in-sublime-text-2)
-  - [Rails For Zombies](http://railsforzombies.org/)
-  - [Rails Tutorial Book](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
-
-  - [Python bible book](http://www.diveintopython.net/)
-  - [Python -  The hard way](http://learnpythonthehardway.org/book/)
-
-
-### Example rezolvate:
-  - [Rails Sample Apps](http://railsapps.github.com/)
-  - [Ruby on Rails Examples](https://github.com/devalot/ror-example)
+  - [Static web](http://www.webtutorialplus.com/html-tutorial-for-static-website/)
+  - [Static web and CSS](http://www.2createawebsite.com/build/build-html-website.html)
+  - [MySQL connection](https://www.tutorialspoint.com/mysql/mysql-connection.htm)
+  - [AJAX](http://api.jquery.com/jquery.ajax/)
 

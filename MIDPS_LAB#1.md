@@ -37,7 +37,7 @@
   - _Advanced Level_ (nota 9 || 10):
     - merge 2 branches
     - rezolvarea conflictelor a 2 branches
-  - _Bonus Point (+1):
+  - _Bonus Point_ (+1):
     - [Tags](https://git-scm.com/book/en/v2/Git-Basics-Tagging). Folosirea tag-urilor pentru marcarea schimbarilor simnificative precum release-ul.
 ### Referinte:
 

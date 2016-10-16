@@ -25,3 +25,5 @@ Web development
 ### [Lab 4](https://github.com/BestMujik/MIDPS-labs/blob/midps_fr/MIDPS_LAB%234.md)
 Mobile development
   - Realizeaza o aplicatii mobile (simpla, ceas, game)
+  
+### [Intrebari examen](https://docs.google.com/document/d/1gcWd9Op3G1D_lFLvwOJ5wwXxMx77QP7oJVl1v6Nl9nU/edit)

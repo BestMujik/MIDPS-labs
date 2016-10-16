@@ -1,18 +1,8 @@
 # Submission Process
 
-**Rapoartele pot fi expediate in limba romana/rusa/engleza, dar doar in .PDF format**
+**Rapoartele pot fi expediate in limba romana/rusa/engleza, DOAR in format PDF**
 
-Initial creeaza un cont pe GitHub care va contine repozitoriul laboratorului efectuat. 
-[How to do it?](http://git-scm.com/documentation)
-
-sau
-
-Instalarea si configurarea Git:
-   * [Download](http://git-scm.com/) and install Git client
-   * [Generate public](https://help.github.com/articles/generating-ssh-keys) & private key pair
-   * [Adauga public key la account-ul tau](http://www.wikihow.com/Add-SSH-Public-Keys-on-GitHub)
-
-Atunci cind veti avea repozitoriul, urmeaza urmatorii pasi:
+Atunci cind veti avea repozitoriul creat pe github (ori alta platforma), urmeaza urmatorii pasi:
 
 1. Cloneaza repositoriul pe masina ta locala
 * Adauga .gitignore and README files [details here](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files)
@@ -22,7 +12,7 @@ Atunci cind veti avea repozitoriul, urmeaza urmatorii pasi:
 * Cind ai finisat de implimentat task-urile, creeaza un readme file in care vei explica ceea ce ai facut, problemele intilnite in timpul dezvoltarii,
 Alte note aditionale care le consideri necesare.
 * Push schimbarile pe GitHub
-* Creeaza raportul laboratorului care va contine ([example](https://github.com/TUM-FAF/WP2/tree/master/TEX%20template)):
+* Creeaza raportul laboratorului care va contine ([example](https://github.com/BestMujik/MIDPS-labs/blob/midps_fr/TEX%20template/Lab_template.pdf)):
   * Pagina de titlu
   * Obiectivele laboratorului
   * Lista de task-uri implementate

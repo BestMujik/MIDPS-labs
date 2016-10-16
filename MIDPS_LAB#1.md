@@ -34,6 +34,7 @@
   - _Normal Level_ (nota 7 || 8):
     - seteaza un branch to track a remote origin pe care vei putea sa faci push (ex. Github, Bitbucket or custom server)
     - reseteaza un branch la commit-ul anterior
+    - folosirea fisierului .gitignore
   - _Advanced Level_ (nota 9 || 10):
     - merge 2 branches
     - rezolvarea conflictelor a 2 branches

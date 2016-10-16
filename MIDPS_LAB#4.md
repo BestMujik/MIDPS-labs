@@ -1,4 +1,4 @@
-# Interactive Development Environments Laboratory Work #5
+## Medii Interactive de Dezvoltare a Produselor Soft LAB #4
 
 _Tool-urile recomandate sunt marcate cu **bold**_
 
@@ -10,6 +10,7 @@ _Foloseste un nou IDE pentru fiecare lucrare de laborator_
   - **Android Studio**
   - Eclipse
   - NetBeans
+  - Adobe Flash Builder
 
 ### Prerequisites:
   - IDEs: Visual Studio, Xcode, Android Studio, Eclipse, NetBeans
@@ -34,7 +35,6 @@ _Foloseste un nou IDE pentru fiecare lucrare de laborator_
 ### Laboratory Requirements:
   - _Basic Level_ (nota 5 || 6) :
     - Realizeaza o aplicatie simpla "Hello world" care va contine 2 butoane care vor afisa 2 pagini diferite, folosing 2 elemente diferite de interactiune
-    
   - _Normal Level_ (nota 7 || 8):
     - Implimenteaza un simplu ceas sau stopwatch
   - _Advanced Level_ (nota 9 || 10):
@@ -43,7 +43,7 @@ _Foloseste un nou IDE pentru fiecare lucrare de laborator_
     - O alta aplicatie sofisticata la alegere 
       * Game
       
-  - _Bonus Point_
+  - _Bonus Point (+1)_
     - Foloseste libraria cross platform pentru a realiza o apliacatie cross platform (aplicatia poate fi compilata atit pe Android, cit si pe iOS)
     - Folosirea Facebook/Twitter/Google Maps API
 
@@ -51,6 +51,7 @@ _Foloseste un nou IDE pentru fiecare lucrare de laborator_
   _Alege si implimenteaza un singur nivel._
 
 ### References:
+  - [Build a mobile app in five minutes](http://www.adobe.com/devnet/flash-builder/articles/hello-world.html)
   - [Android Developers Documentation](http://developer.android.com/training/basics/firstapp/index.html)
   - [Simple Android application from scratch in IntelliJ IDEA 10.5](http://wiki.jetbrains.net/intellij/Simple_Android_application_from_scratch_in_IntelliJ_IDEA_10.5)
   - [One of the Best Java world site](http://www.java2s.com/)

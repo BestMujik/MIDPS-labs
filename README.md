@@ -1,6 +1,7 @@
 # MIDPS-labs
 Conditiile pentru lucrarile de laborator la MIDPS, Frecventa redusa
 
+ Cititi cu atentie [pasii inainte de a incepe efectuarea laboratoarelor](Submission Process.md)
 ## Cuprins
 
 ### [Lab 1](https://github.com/BestMujik/MIDPS-labs/blob/midps_fr/MIDPS_LAB%231.md)

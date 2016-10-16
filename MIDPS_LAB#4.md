@@ -28,10 +28,9 @@ _Foloseste un nou IDE pentru fiecare lucrare de laborator_
   3. Ai respectat DL (data limita)
 
 ### Technical Prerequisites:
-  - Your application must be developed and tested in SDK included Emulator.
-  - You probably would like to run your application on real device.
-  - Your application must support multiple screen resolutions.
-
+  - Aplicatia trebuie sa fie dezvoltata si testata cu orice SDK ce include Emulator.
+  - Testarea aplicatiei pe un device real
+  - Aplicatia trebuie sa suporte device-urile cu diferite rezolutii
 ### Laboratory Requirements:
   - _Basic Level_ (nota 5 || 6) :
     - Realizeaza o aplicatie simpla "Hello world" care va contine 2 butoane care vor afisa 2 pagini diferite, folosing 2 elemente diferite de interactiune

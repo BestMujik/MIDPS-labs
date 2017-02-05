@@ -34,12 +34,15 @@
   - _Normal Level_ (nota 7 || 8):
     - seteaza un branch to track a remote origin pe care vei putea sa faci push (ex. Github, Bitbucket or custom server)
     - reseteaza un branch la commit-ul anterior
+    - salvarea temporara a schimbarilor care nu se vor face commit imediat.
     - folosirea fisierului .gitignore
   - _Advanced Level_ (nota 9 || 10):
     - merge 2 branches
     - rezolvarea conflictelor a 2 branches
+    - [comezile git](https://www.siteground.com/tutorials/git/commands.htm) care trebuie cunoscute 
   - _Bonus Point_ (+1):
     - [Tags](https://git-scm.com/book/en/v2/Git-Basics-Tagging). Folosirea tag-urilor pentru marcarea schimbarilor simnificative precum release-ul.
+    
 ### Referinte:
 
 Basics of linux comandline comands:

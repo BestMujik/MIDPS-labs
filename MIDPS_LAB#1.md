@@ -20,9 +20,6 @@
   - [Submission Process](https://github.com/BestMujik/MIDPS-labs/blob/midps_fr/Submission%20Process.md)
   
 ### Technical Prerequisites:
-  - Conexiunea la un remote server folosind SSH (Drept server remote, poate fi folosit atit un server real)
-  - VCS pe remote server
-  - CLI text editor (vi, vim, emacs or nano) cu pluginurile necesare (if necessary)
 
 ### Laboratory Requirements: Trebuie folosit drept VSC [github](https://github.com/) sau [bitbucket](https://bitbucket.org/)
 

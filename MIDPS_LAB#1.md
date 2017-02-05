@@ -1,7 +1,7 @@
-## Medii Interactive de Dezvoltare a Produselor Soft LAB #2
+## Medii Interactive de Dezvoltare a Produselor Soft LAB #1
 
 ## Version Control Systems si modul de setare a unui server
-[EN] Setting server environment. Version Control Systems
+[EN] Version Control Systems
 
 ### Prerequisites:
   - IDEs: Command Line Interface (CLI) | CLI Editors - nano, vim, emacs
@@ -11,59 +11,40 @@
   - Timp: 4-8 ore
 
 ### Obiective:
-  - Intelegerea si folosirea CLI (basic level)
-  - Administrarea remote a masinilor linux machine folosind SSH (remote code editing)
   - Version Control Systems (git || bitbucket || mercurial || svn)
-  - Compileaza codul C/C++/Java/Python prin intermediul CLI, folosind compilatoarele gcc/g++/javac/python 
 
 ### Conditii Generale:
   Se considera ca ai trecut cu succes laboratorul daca ai urmat toti pasii din:
   - [Submission Process](https://github.com/BestMujik/MIDPS-labs/blob/master/Submission%20Process.md)
   
 ### Technical Prerequisites:
-  - Conexiunea la un remote server folosind SSH (Drept server remote, poate fi folosit atit un server real, cit si o masina virtuala _virtual machine_)
-  - VCS pe remote server
-  - CLI text editor (vi, vim, emacs or nano) cu pluginurile necesare (if necessary)
-  - Compilers/interpreters necesare pe remote server (gcc, g++, openJDK, python, ruby)
 
 ### Laboratory Requirements: Trebuie folosit drept VSC [github](https://github.com/) sau [bitbucket](https://bitbucket.org/)
 
   -  _Basic Level_ (nota 5 || 6) :
-    - conecteaza-te la server folosind SSH
-    - compileaza cel putin 2 sample programs din setul HelloWolrdPrograms folosind CLI
-    - executa primul commit folosind VCS
-  - _Normal Level_ (nota 7 || 8):
     - initializeaza un nou repositoriu
     - configureaza-ti VCS
     - crearea branch-urilor (creeaza cel putin 2 branches)
     - commit pe ambele branch-uri (cel putin 1 commit per branch)
-  - _Advanced Level_ (nota 9 || 10):
+  - _Normal Level_ (nota 7 || 8):
     - seteaza un branch to track a remote origin pe care vei putea sa faci push (ex. Github, Bitbucket or custom server)
     - reseteaza un branch la commit-ul anterior
+    - salvarea temporara a schimbarilor care nu se vor face commit imediat.
+    - folosirea fisierului .gitignore
+  - _Advanced Level_ (nota 9 || 10):
     - merge 2 branches
     - rezolvarea conflictelor a 2 branches
-  - _Bonus Point_:
-    - Scrie un script care va compila HelloWolrdPrograms projects. [vezi lista](https://github.com/TUM-FAF/IDE/tree/master/HelloWorldPrograms)
-      
+    - [comezile git](https://www.siteground.com/tutorials/git/commands.htm) care trebuie cunoscute 
+    
+  - _Bonus Point_ (+1):
+    - [Tags](https://git-scm.com/book/en/v2/Git-Basics-Tagging). Folosirea tag-urilor pentru marcarea schimbarilor simnificative precum release-ul.
+    
+    
 ### Referinte:
 
 Basics of linux comandline comands:
   - [Basic Linux Commands](http://www.debianhelp.co.uk/commands.htm)
   - [Basic Linux Commands - 2](http://www.comptechdoc.org/os/linux/usersguide/linux_ugbasics.html)
-
-PowerShell (windows console):
-  - [Popwershell tips](http://powershell.com/cs/blogs/tips/)
-  
-Cum sa intelezi o masina virtuala  
-  - [Installing Ubuntu inside Windows using VirtualBox](http://www.psychocats.net/ubuntu/virtualbox)
-
-SSH into your Virtualbox VM from the same computer:
-  - [Video - SSH into your Virtualbox VM](http://www.youtube.com/watch?v=5BsShkcweIs)
-
-Compiling in Linux
-  - [How to compile a C program in ubuntu](http://stackoverflow.com/questions/4635794/how-to-run-a-c-program-on-ubuntu)
-  - [How to compile a C++ program in ubuntu](http://askubuntu.com/questions/61408/what-is-a-command-to-compile-and-run-c-programs)
-  - [How to compile a Java program in ubuntu](http://askubuntu.com/questions/145748/how-to-compile-a-java-file)
 
 Git:
   - [Basics Git](http://www.manniwood.com/starting_a_project_with_git.html)
@@ -83,4 +64,4 @@ Mercurial:
 SVN
   - [Introducing to SVN](http://svnbook.red-bean.com/)
   - [Example of SVN](https://tortoisesvn.net/)
-
+      

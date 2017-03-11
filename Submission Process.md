@@ -1,6 +1,6 @@
 # Submission Process
 
-**Rapoartele pot fi expediate in limba romana/rusa/engleza, dar doar in .PDF format**
+**Rapoartele pot fi expediate in limba romana/rusa/engleza, doar in .PDF format**
 
 Initial creeaza un cont pe GitHub care va contine repozitoriul laboratorului efectuat. 
 [How to do it?](http://git-scm.com/documentation)

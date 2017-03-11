@@ -42,9 +42,6 @@ _Note:_
   * _Daca careva din notiuni/cuvinte nu iti sunt cunoascute - google it._
 
   * _Daca ai careva intrebari si nu le-ai gasit pe net, intreaba de colegii tai_
-
-  * _Daca nici una din obtiuni nu lucreaza pentru tine, expediaza-mi un email cu intrebarea ta. Totusi, te-as sfatui sa gasesti singur iesire din situatie,
-  asta te va ajuta pe viitor in viitoarea ta cariera, pentru a te putea diferentia de "bîdlo-coder"._
   
   * _Majoritatea notiunilor si a documentatiei va fi in limba engleza, incearca sa inveti/obisnuiesti, deoarece un programist bun nu va putea fara_
 

@@ -69,4 +69,3 @@ _Foloseste un nou IDE pentru fiecare lucrare de laborator_
 
 ### Cross Platform tools
  - [tools](http://thinkapps.com/blog/development/develop-for-ios-v-android-cross-platform-tools/)
- - [VS example](https://www.youtube.com/watch?v=833XM5JiVt0)

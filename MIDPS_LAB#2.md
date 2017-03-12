@@ -1,6 +1,6 @@
 # MIDPS lab #2
 
-_Nota: Foloseste un IDE diferit pentru fiecare lucrare de laborator_
+_Note: Foloseste un IDE diferit pentru fiecare lucrare de laborator_
 
 ## GUI Development
   - **Visual Studio**
@@ -30,6 +30,10 @@ _Nota: Foloseste un IDE diferit pentru fiecare lucrare de laborator_
   - * Incearca sa realizezi programul tau sa fie cross platform (Compatibil cu diferite platforme: Windows,Linux,Mac).
 
 ### Laboratory Requirements:
+
+Note: 
+    - Respectarea UX
+    - Manipularea eventurilor de input gresit de catre utilizator
 
   - _Basic Level_ (nota 5 || 6):
     - Realizeaza un simplu GUI calculator care suporta functiile de baza: +, -, /, *.

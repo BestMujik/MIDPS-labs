@@ -1,6 +1,6 @@
 # Submission Process
 
-**Rapoartele pot fi expediate in limba romana/rusa/engleza, dar doar in .PDF format**
+**Rapoartele pot fi expediate in limba romana/rusa/engleza, in format PDF**
 
 Initial creeaza un cont pe GitHub care va contine repozitoriul laboratorului efectuat. 
 [How to do it?](http://git-scm.com/documentation)
@@ -35,16 +35,9 @@ Alte note aditionale care le consideri necesare.
   * Subiectul email-ului ex: [MIDPS][TI-144][Lab#2][NumePrenume]
 
 _Note:_
-  * _Prezentarea laboratorului in Latex nu este obligatorie(dar se va aprecia cu +1), se poate de prezentat si in varianta simpla PDF_
+  * _Prezentarea lucrarii de laborator in Latex nu este obligatorie(dar se va aprecia cu +1)._
   
-  * _Cu cit mai multe detalii vei atasa la laboratorul tau, cu atit mai putine intrebari iti voi adresa in timpul prezentarii._
-
-  * _Daca careva din notiuni/cuvinte nu iti sunt cunoascute - google it._
-
-  * _Daca ai careva intrebari si nu le-ai gasit pe net, intreaba de colegii tai_
-
-  * _Daca nici una din obtiuni nu lucreaza pentru tine, expediaza-mi un email cu intrebarea ta. Totusi, te-as sfatui sa gasesti singur iesire din situatie,
-  asta te va ajuta pe viitor in viitoarea ta cariera, pentru a te putea diferentia de "bîdlo-coder"._
+  * _Cu cit mai multe detalii se va atasa la raport, cu atit mai putine intrebari iti vor fi adresate in timpul prezentarii raportului._
   
-  * _Majoritatea notiunilor si a documentatiei va fi in limba engleza, incearca sa inveti/obisnuiesti, deoarece un programist bun nu va putea fara_
+  * _Majoritatea notiunilor si a documentatiei va fi in limba engleza (is a must for a good programmer)._
 

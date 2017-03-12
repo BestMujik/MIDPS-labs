@@ -32,7 +32,7 @@ Alte note aditionale care le consideri necesare.
   * Bibliografie 
   * Titlul fisierului .pdf 
   * Expediaza-mi raportul impreuna cu link-ul la repozitorul tau pe email-ul cojanu.irina.utm@gmail.com 
-  * Subiectul email-ului ex: [MIDPS][TI-144][Lab#2][NumePrenume]
+  * Subiectul email-ului ex: [MIDPS][TI-144][Labs][NumePrenume]
 
 _Note:_
   * _Prezentarea lucrarii de laborator in Latex nu este obligatorie(dar se va aprecia cu +1)._

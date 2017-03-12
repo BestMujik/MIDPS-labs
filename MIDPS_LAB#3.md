@@ -36,6 +36,7 @@ _Note: Inainte de realizarea site-ului, se va inrca in repozitoriu mockup-ul sit
 
 ### Referinte:
   - [Mockup tools](https://speckyboy.com/10-completely-free-wireframing-and-mockup-tools/)
+  - [Free Mockup tool](https://moqups.com/)
 
   - [Sublime Text 2 workflow](https://tutsplus.com/course/improve-workflow-in-sublime-text-2)
   - [Rails For Zombies](http://railsforzombies.org/)

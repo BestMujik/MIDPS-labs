@@ -1,7 +1,6 @@
 # Medii Interactive de Dezvoltare a Produselor Soft Lab #5
 
-## Title
-Lucru in echipa. Aplicatie complexa
+## Lucru in echipa. Aplicatie complexa
 
 ## Contents
 * Lucru in echipa

@@ -15,8 +15,5 @@ Conditiile pentru lucrarile de laborator la MIDPS, prof. R. Melnic
 ### [Lab 4](https://github.com/BestMujik/MIDPS-labs/blob/master/MIDPS_LAB%234.md)
 **Mobile Developement**
 
-### [Lab 5](https://github.com/BestMujik/MIDPS-labs/blob/master/MIDPS_LAB%235.md)
-**Mobile Developement**
-
-### [Lab 6]()
+### [Lab 5]()
 **Lucru in echipa. Aplicatie complexa**

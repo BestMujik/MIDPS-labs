@@ -1,7 +1,5 @@
 # Interactive Development Environments Laboratory Work #4
 
-_Tool-urile recomandate sunt marcate cu **bold**_
-
 _Foloseste un nou IDE pentru fiecare lucrare de laborator_
 
 ## Dezvoltarea unei aplicatii mobile
@@ -69,4 +67,3 @@ _Foloseste un nou IDE pentru fiecare lucrare de laborator_
 
 ### Cross Platform tools
  - [tools](http://thinkapps.com/blog/development/develop-for-ios-v-android-cross-platform-tools/)
- - [VS example](https://www.youtube.com/watch?v=833XM5JiVt0)

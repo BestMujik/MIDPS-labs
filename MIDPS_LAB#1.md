@@ -21,7 +21,7 @@
 
 ### Laboratory Requirements: Trebuie folosit drept VSC [github](https://github.com/) sau [bitbucket](https://bitbucket.org/)
 
-  -  _Basic Level_ (nota 5 || 6) :
+  - _Basic Level_ (nota 5 || 6) :
     - initializeaza un nou repositoriu
     - configureaza-ti VCS
     - crearea branch-urilor (creeaza cel putin 2 branches)
